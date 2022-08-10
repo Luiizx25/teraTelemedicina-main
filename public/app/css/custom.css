@@ -1,0 +1,186 @@
+.w-0\/100 {width: 1%;}
+.w-1\/100 {width: 1%;}
+.w-2\/100 {width: 2%;}
+.w-3\/100 {width: 3%;}
+.w-4\/100 {width: 4%;}
+.w-5\/100 {width: 5%;}
+.w-6\/100 {width: 6%;}
+.w-7\/100 {width: 7%;}
+.w-8\/100 {width: 8%;}
+.w-9\/100 {width: 9%;}
+.w-10\/100 {width: 10%;}
+.w-11\/100 {width: 11%;}
+.w-12\/100 {width: 12%;}
+.w-13\/100 {width: 13%;}
+.w-14\/100 {width: 14%;}
+.w-15\/100 {width: 15%;}
+.w-16\/100 {width: 16%;}
+.w-17\/100 {width: 17%;}
+.w-18\/100 {width: 18%;}
+.w-19\/100 {width: 19%;}
+.w-20\/100 {width: 20%;}
+.w-21\/100 {width: 21%;}
+.w-22\/100 {width: 22%;}
+.w-23\/100 {width: 23%;}
+.w-24\/100 {width: 24%;}
+.w-25\/100 {width: 25%;}
+.w-26\/100 {width: 26%;}
+.w-27\/100 {width: 27%;}
+.w-28\/100 {width: 28%;}
+.w-29\/100 {width: 29%;}
+.w-30\/100 {width: 30%;}
+.w-31\/100 {width: 31%;}
+.w-32\/100 {width: 32%;}
+.w-33\/100 {width: 33%;}
+.w-34\/100 {width: 34%;}
+.w-35\/100 {width: 35%;}
+.w-36\/100 {width: 36%;}
+.w-37\/100 {width: 37%;}
+.w-38\/100 {width: 38%;}
+.w-39\/100 {width: 39%;}
+.w-40\/100 {width: 40%;}
+.w-41\/100 {width: 41%;}
+.w-42\/100 {width: 42%;}
+.w-43\/100 {width: 43%;}
+.w-44\/100 {width: 44%;}
+.w-45\/100 {width: 45%;}
+.w-46\/100 {width: 46%;}
+.w-47\/100 {width: 47%;}
+.w-48\/100 {width: 48%;}
+.w-49\/100 {width: 49%;}
+.w-50\/100 {width: 50%;}
+.w-51\/100 {width: 51%;}
+.w-52\/100 {width: 52%;}
+.w-53\/100 {width: 53%;}
+.w-54\/100 {width: 54%;}
+.w-55\/100 {width: 55%;}
+.w-56\/100 {width: 56%;}
+.w-57\/100 {width: 57%;}
+.w-58\/100 {width: 58%;}
+.w-59\/100 {width: 59%;}
+.w-60\/100 {width: 60%;}
+.w-61\/100 {width: 61%;}
+.w-62\/100 {width: 62%;}
+.w-63\/100 {width: 63%;}
+.w-64\/100 {width: 64%;}
+.w-65\/100 {width: 65%;}
+.w-66\/100 {width: 66%;}
+.w-67\/100 {width: 67%;}
+.w-68\/100 {width: 68%;}
+.w-69\/100 {width: 69%;}
+.w-70\/100 {width: 70%;}
+.w-71\/100 {width: 71%;}
+.w-72\/100 {width: 72%;}
+.w-73\/100 {width: 73%;}
+.w-74\/100 {width: 74%;}
+.w-75\/100 {width: 75%;}
+.w-76\/100 {width: 76%;}
+.w-77\/100 {width: 77%;}
+.w-78\/100 {width: 78%;}
+.w-79\/100 {width: 79%;}
+.w-80\/100 {width: 80%;}
+.w-81\/100 {width: 81%;}
+.w-82\/100 {width: 82%;}
+.w-83\/100 {width: 83%;}
+.w-84\/100 {width: 84%;}
+.w-85\/100 {width: 85%;}
+.w-86\/100 {width: 86%;}
+.w-87\/100 {width: 87%;}
+.w-88\/100 {width: 88%;}
+.w-89\/100 {width: 89%;}
+.w-90\/100 {width: 90%;}
+.w-91\/100 {width: 91%;}
+.w-92\/100 {width: 92%;}
+.w-93\/100 {width: 93%;}
+.w-94\/100 {width: 94%;}
+.w-95\/100 {width: 95%;}
+.w-96\/100 {width: 96%;}
+.w-97\/100 {width: 97%;}
+.w-98\/100 {width: 98%;}
+.w-99\/100 {width: 99%;}
+.w-100\/100 {width: 100%;}
+
+a.active .cycle-item-lnk {
+    color:#f05a26;
+    border: 1px solid;
+}
+.zoom-out {
+    transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+    transition-duration: 300ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    --transform-translate-x: 0;
+    --transform-translate-y: 0;
+    --transform-rotate: 0;
+    --transform-skew-x: 0;
+    --transform-skew-y: 0;
+    --transform-scale-x: 1;
+    --transform-scale-y: 1;
+    transform: translateX(var(--transform-translate-x)) translateY(var(--transform-translate-y)) rotate(var(--transform-rotate)) skewX(var(--transform-skew-x)) skewY(var(--transform-skew-y)) scaleX(var(--transform-scale-x)) scaleY(var(--transform-scale-y));
+    cursor: pointer;
+}
+.zoom-out:hover {
+    --transform-scale-x: .98;
+    --transform-scale-y: .98;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+/* Page Laudo */
+.page {
+    width: 21cm;
+    min-height: 29.7cm;
+    padding: 2cm;
+    margin: 1cm auto;
+    border: 1px #D3D3D3 solid;
+    border-radius: 1px;
+    background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    /* page-break-before: always; */
+  }
+
+  .subpage {
+    padding: 1cm;
+    border: 5px red solid;
+    border: none;
+    min-height: 230mm;
+    outline: 2cm #FFEAEA solid;
+    outline: none;
+    /* page-break-before: always; */
+  }
+
+@page {
+    size: A4;
+    margin: 0;
+}
+
+@media print {
+    .page {
+      margin: 0;
+      border: initial;
+      border-radius: initial;
+      width: initial;
+      min-height: initial;
+      box-shadow: initial;
+      background: initial;
+      page-break-after: always;
+    }
+}
+
+/* CKEditor */
+span #cke_38,
+a #cke_19,
+a #cke_74,
+a #cke_77,
+a #cke_90,
+#cke_1_path,
+#cke_63,
+#cke_92,
+#cke_74.cke_button.cke_button__anchor.cke_button_off,
+#cke_70.cke_button.cke_button__language.cke_button_expandable.cke_button_off,
+#cke_83.cke_button.cke_button__iframe.cke_button_off,
+#cke_77.cke_button.cke_button__flash.cke_button_off,
+#cke_19.cke_button.cke_button__save.cke_button_off,
+#cke_90.cke_button.cke_button__showblocks.cke_button_off,
+#cke_18.cke_button.cke_button__source.cke_button_off,
+div.dropdown-toggle.notification.notification--bullet.cursor-pointer {
+    display: none !important;
+}

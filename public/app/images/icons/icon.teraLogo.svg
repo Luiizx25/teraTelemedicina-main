@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="74.389px" height="69.11px" viewBox="0 0 74.389 69.11" enable-background="new 0 0 74.389 69.11" xml:space="preserve">
+<g id="Layer_1">
+	<g>
+		<g>
+			<defs>
+				<path id="SVGID_7_" d="M14.398,4.159c-4.197,0-7.598,3.404-7.598,7.6c0,4.197,3.4,7.6,7.598,7.6h7.725
+					c4.127,0,7.473,3.346,7.473,7.471v22.922c0,8.393,6.803,15.199,15.197,15.199l0,0V21.892c0-9.793-7.939-17.732-17.73-17.732
+					H14.398z"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_7_"  overflow="visible"/>
+			</clipPath>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-269.771" y1="-15.2168" x2="-268.771" y2="-15.2168" gradientTransform="matrix(40.2727 73.7067 -73.7067 40.2727 9748.0986 20493.8711)">
+				<stop  offset="0" style="stop-color:#F58131"/>
+				<stop  offset="1" style="stop-color:#F05123"/>
+			</linearGradient>
+			<polygon clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" points="-18.779,18.136 15.535,80.937 70.373,50.974 36.059,-11.827 
+							"/>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_10_" d="M44.793,4.159v0.002c0,8.393,6.805,15.197,15.199,15.197c4.195,0,7.596-3.402,7.596-7.6
+					c0-4.195-3.4-7.6-7.596-7.6H44.793z"/>
+			</defs>
+			<clipPath id="SVGID_5_">
+				<use xlink:href="#SVGID_10_"  overflow="visible"/>
+			</clipPath>
+			
+				<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-266.7168" y1="-15.3135" x2="-265.7168" y2="-15.3135" gradientTransform="matrix(26.848 29.1279 -29.1279 26.848 6757.498 8177.1523)">
+				<stop  offset="0" style="stop-color:#6CCDE5"/>
+				<stop  offset="1" style="stop-color:#10B0D0"/>
+			</linearGradient>
+			<polygon clip-path="url(#SVGID_5_)" fill="url(#SVGID_6_)" points="37.219,11.142 55.264,30.718 75.162,12.378 57.117,-7.2 			
+				"/>
+		</g>
+	</g>
+</g>
+<g id="assinatura">
+</g>
+<g id="SomenteLogo">
+</g>
+</svg>
